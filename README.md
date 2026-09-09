@@ -1,6 +1,6 @@
 ROBO.720 – Group 4
 
-This repository contains the exercises and completed work for ROBO.720 by Group 4.
+This repository contains the exercises and completed work for ROBO.720 by Group 4 (Tuomas Karri & Peetu Lahtinen).
 Repository structure
 The repository is organized into folders for the course exercises and the completed exercises used for evaluation.
 
